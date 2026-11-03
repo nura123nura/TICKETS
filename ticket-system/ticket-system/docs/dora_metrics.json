@@ -1,0 +1,15 @@
+{
+  "period_days": 90,
+  "deployments": 17,
+  "deploys_per_week": 1.32,
+  "lead_time_hours_median": 93.4,
+  "change_failure_rate": 0.118,
+  "failed_deployments": 2,
+  "mttr_hours_median": 2.15,
+  "levels": {
+    "deployment_frequency": "Жоғары",
+    "lead_time": "Жоғары",
+    "change_failure_rate": "Орташа",
+    "mttr": "Жоғары"
+  }
+}

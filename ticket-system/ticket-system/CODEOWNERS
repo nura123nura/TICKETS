@@ -1,0 +1,5 @@
+# Негізгі ветка үшін міндетті ревьюерлер
+*                       @team-lead
+/.github/               @devops-engineer
+/scripts/               @devops-engineer
+/ticketsys/             @backend-dev @team-lead
